@@ -93,7 +93,7 @@ Or plug in your own wearable sensor data in `.csv` format.
 
 ## 📌 Applications
 
-- 🏋️ Fitness Tracking  
+- 🏋️ Fitness Tracking System
 - 🧘 Smart Health Monitoring  
 - 🏠 Ambient Assisted Living  
 - 📱 Wearable Device Intelligence  
